@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Civil Advocacy</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="name">© 2021, Sai Charan Akkena</string>
+    <string name="version1_0">Version1.0</string>
+    <string name="textview">TextView</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="deniedText">Location permission was denied - cannot determine address</string>
+
+
+</resources>
